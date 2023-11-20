@@ -15,7 +15,7 @@ h1{
     padding-right: 45%;
     margin-top: 2%;
 }
-
+  
 .span1{
     color: grey;
     margin-top: 1px;
@@ -57,7 +57,27 @@ table{
     text-align: center;
     margin-right:  0px;
     width: 900px;
-    
-    
-    
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 260px;
+    height: 177px;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    width: 260px;
+    height: 177px;
+}
+
+.pubblicità-monitor{
+    height: 184px;
+    width: 250px;
+    margin-top: -374px;
+    color: aliceblue;
+}
+
+.pubblicità-graph{
+    color: aliceblue;
 }
