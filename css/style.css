@@ -1,0 +1,15 @@
+
+
+.pattern{
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+    margin-top: -12px;
+    margin-left: -10px;
+    height: 159px;
+    width: 1600px;
+}
+
+div{
+    width: 166px;
+    margin-top: -37px;
+}
