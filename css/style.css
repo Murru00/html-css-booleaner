@@ -1,15 +1,16 @@
-
-
 .pattern{
     background-image: url(../img/pattern.png);
-    background-color: dodgerblue;
-    margin-top: -12px;
-    margin-left: -10px;
-    height: 159px;
-    width: 1600px;
+    background-color: deepskyblue;
+    background-size: 250px;
+    height: 84px;
+    width:auto;
 }
 
-div{
-    width: 166px;
-    margin-top: -37px;
+.logo{
+    width: 130px;
+    margin-top: -3%;
+}
+
+h1{
+    padding-right: 25%;
 }
