@@ -13,4 +13,20 @@
 
 h1{
     padding-right: 25%;
+    margin-top: 0%;
+}
+
+.span1{
+    color: grey;
+    margin-top: 1px;
+}
+
+.span2{
+    color: blue;
+    margin-top: 1px;
+}
+
+h5{
+    color: grey;
+    margin-top: 1px;
 }
