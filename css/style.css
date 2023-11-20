@@ -39,7 +39,25 @@ h5{
     background-color: yellow;
 }
 
-th{
+thead{
     color: aliceblue;
     background-color: cornflowerblue;
+}
+
+.background{
+    background-color:white;
+}
+
+tbody{
+    background-color:aquamarine ;
+}
+
+table{
+    
+    text-align: center;
+    margin-right:  0px;
+    width: 900px;
+    
+    
+    
 }
