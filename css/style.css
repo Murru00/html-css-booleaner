@@ -12,8 +12,8 @@
 }
 
 h1{
-    padding-right: 25%;
-    margin-top: 0%;
+    padding-right: 45%;
+    margin-top: 2%;
 }
 
 .span1{
@@ -31,6 +31,15 @@ h5{
     margin-top: 1px;
 }
 
-p{
+.photo{
     margin-top: -4Spx;
+}
+
+.Lorem{
+    background-color: yellow;
+}
+
+th{
+    color: aliceblue;
+    background-color: cornflowerblue;
 }
